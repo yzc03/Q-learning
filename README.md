@@ -20,5 +20,5 @@
 git clone https://github.com/yzc03/Q-learning.git
 cd Q-learning
 ## 演示视频
-[点击这里观看演示视频]([https://www.youtube.com/watch?v=视频ID](https://www.youtube.com/watch?v=Ahoxl7mn6j0))
+[点击这里观看演示视频](https://www.youtube.com/watch?v=Ahoxl7mn6j0)
 
