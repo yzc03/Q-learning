@@ -19,5 +19,6 @@
 ```bash
 git clone https://github.com/yzc03/Q-learning.git
 cd Q-learning
-## 项目演示视频 🎥  
-[![Watch the video](https://img.youtube.com/vi/Ahoxl7mn6j0/0.jpg)](https://www.youtube.com/watch?v=Ahoxl7mn6j0)
+## 演示视频
+[点击这里观看演示视频]([https://www.youtube.com/watch?v=视频ID](https://www.youtube.com/watch?v=Ahoxl7mn6j0))
+
